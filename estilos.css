@@ -292,7 +292,13 @@
  
 
 
-
+.fila-portfolio{
+    color: #000286;
+    background-color:white;
+    padding:10px;
+    border:10px solid #00F6FA;
+    border-radius:20px;
+}
 
 
 
