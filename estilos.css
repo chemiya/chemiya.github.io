@@ -313,6 +313,29 @@
     border-radius:20px;
 }
 
+.enlace-proyecto{
+    text-decoration: none;
+    background-color: #000286;
+    color:white;
+    font-size: 25px;
+    padding: 7px;
+    border-radius:20px;
+    margin-top:10px;
+
+}
+.enlace-proyecto:hover{
+    
+    background-color: #00F6FA;
+    transform: scale(1.1);
+    color:#000286;
+}
+
+.titulo-projects{
+    background-color: white;
+    color: #000286;
+    border-radius: 10px;
+}
+
 .jewel{
     background-color: #e8b34b;
     border-radius:20px;
