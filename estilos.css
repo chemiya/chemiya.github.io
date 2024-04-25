@@ -15,7 +15,7 @@
     
 }
 
-.about{
+.about,.sentence, .sport{
    padding:20px;
     margin-top: 150px;
     background-color: #000286;
@@ -34,6 +34,10 @@
 
  .justificado {
     text-align: justify;
+}
+
+.negrita{
+    font-weight: 900;
 }
 
  .education{
@@ -397,6 +401,17 @@
 
 .icono-experiencia{
     width:250px;
+}
+
+.icono-sport{
+    height:200px;
+}
+
+.cuadro-sport{
+    background-color: white;
+    color: #000286;
+    border-radius: 10px;
+    padding:10px;
 }
 
 .row-experience{
